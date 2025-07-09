@@ -8,6 +8,7 @@ Open to collaborating on innovative and challenging projects.
 
 #
 <div align="center">
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=Juanes48&theme=nord&hide_border=true&border_radius=12.6&exclude_days=Mon)](https://git.io/streak-stats)
 </div>
 
