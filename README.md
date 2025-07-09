@@ -1,14 +1,18 @@
 # Hey, I'm Juan Sierra!
 
-- Desarrollador backend con fuerte orientación lógica y pensamiento estructurado.
-- Enfocado en automatizar procesos y construir soluciones eficientes con Python y SQL.
-- Interesado en arquitectura cloud, DevOps y ciberseguridad.
-- Entusiasta del aprendizaje continuo y la mejora constante.
-- Abierto a colaborar en proyectos innovadores y desafiantes.
+Backend developer with strong logical thinking and structured problem-solving skills.
+Focused on automating processes and building efficient solutions using Python and SQL.
+Interested in cloud architecture, DevOps, and cybersecurity.
+Enthusiastic about continuous learning and constant improvement.
+Open to collaborating on innovative and challenging projects.
 
 #
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juanes48&theme=nord&hide_border=true&border_radius=12.6&exclude_days=Mon)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Juanes48&theme=nord&hide_border=true&border_radius=12.6&exclude_days=Mon)](https://git.io/streak-stats)
+</div>
 
+
+#
 ## 🛠 Tecnologías que uso
 ### 🚀 Lenguajes y Backend  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
